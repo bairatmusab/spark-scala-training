@@ -1,2 +1,9 @@
 *.class
 *.log
+
+*.xml
+*/.*
+*/project/project/*
+*/project/target/*
+*/target/*
+wikipedia/src/main/resources/wikipedia/wikipedia.dat
