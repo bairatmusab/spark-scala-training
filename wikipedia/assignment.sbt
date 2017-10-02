@@ -2,7 +2,7 @@ course := "bigdata"
 assignment := "wikipedia"
 
 assignmentInfo := AssignmentInfo(
-  key = "HNdtdTByZ4m7ZzOn",
+  key = "EH8wby4kEeawURILfHIqjw",
   itemId = "CfQX2",
   premiumItemId = Some("QcWcs"),
   partId = "5komc",

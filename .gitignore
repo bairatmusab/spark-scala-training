@@ -7,3 +7,5 @@
 */project/target/*
 */target/*
 wikipedia/src/main/resources/wikipedia/wikipedia.dat
+
+*.csv
